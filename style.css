@@ -1,0 +1,253 @@
+#title{
+    background-image: url('pexels-karolina-grabowska-5632402.jpg');
+    color:#414a46;
+    background-size:cover; 
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: black; /* Replace 'your-desired-color' with the color you want */
+  }
+  .navbar-dark .navbar-brand{
+    color: #183D3D;; /* Replace 'your-desired-color' with the color you want */
+  }
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+.container-fluid{
+    padding: 3% 15%;
+    padding-bottom: 9%;
+    height: 100%;
+    
+}
+body{
+    font-family: Montserrat;
+    font-weight: 400;
+}
+.navbar-brand{
+    font-family: ubuntu;
+    font-size: 2.5rem;
+}
+.navbar{
+   
+ padding:0 0 4.5rem 0;
+ 
+
+}
+.nav-item{
+    
+    padding: 0 18px ;
+}
+.nav-link{
+   
+    font-family: Montserrat;
+    font-weight: 100;
+    font-size: 1.2rem
+}
+.db{
+    margin: 5% 3% 5% 0 ;
+}
+#imag{
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+   
+}
+.con{
+    font-family: Monserrat;
+    font-size: 20px;
+    display: block;
+    
+}
+#features{
+   
+    padding: 7% 15%;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+    
+    
+  
+}
+.ft-box{
+    text-align: center;
+    padding: 5%;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+.ft-box p{
+    color:#8f8f8f;
+}
+.haha{
+    height: 100px;
+    width: 100px;
+}
+.icon{
+    color:#64CCC5;
+    padding-bottom: 20px;
+}
+.icon:hover{
+    color: #5C8374;
+}
+#testimonials{
+   
+    text-align: center;
+    background-color: #5C8374;
+    color: white;
+}
+h2{
+    font-family:Montserrat ;
+    font-weight: 550;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.dog1{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    background-color: #5C8374;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+.presss{
+    width: 10%;
+    margin: 20px 20px 50px;
+}
+h4{
+    color: #E4E4D0;
+    font-family: ubuntu ;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.price{
+    padding: 3% 2%;
+}
+
+p{
+    font-family:ubuntu ;
+    font-weight: 200;
+    color: silver;
+}
+#cta{
+    color: white;
+    background-color: #5C8374;
+        text-align: center;
+        padding: 7% 15%;
+       
+}
+.ct{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    font-size: 3.5rem;
+    line-height: 1.5;
+   
+}
+#footer{
+ padding: 20% 15% 0;
+ text-align: center;  
+}
+.dd{
+    margin: 20px 10px;
+}
+html {
+    scroll-behavior:smooth;
+  }
+
+@media (max-width:1028px){
+    #title{
+        text-align: left;
+        background-image: url('https://wallpapercave.com/wp/wp2110669.jpg');
+       
+        
+    }
+    h1{
+        font-size: 40px;
+        font-weight: 500;
+        color: whitesmoke;
+    
+    
+    }
+    .navbar-dark .navbar-nav .nav-link {
+        color: bisque; /* Replace 'your-desired-color' with the color you want */
+      }
+      .navbar-dark .navbar-brand{
+        color: bisque;; /* Replace 'your-desired-color' with the color you want */
+      }
+    #imag{
+        position: static;
+        transform: rotate(0);
+
+    }
+    #testimonials{
+        text-align: center;
+        background-color: burlywood;
+    color: #414a46;
+   
+    }
+   
+    h2{
+        font-size:30px;
+        font-weight: 50;
+    }
+    #cta{
+       
+        background-color: burlywood;
+            text-align: left;
+            padding: 7% 15%;
+           
+    
+}
+
+#press{
+    background-color: burlywood;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.ct{
+    color: #414a46;
+    text-align: left;
+    font-size:40px;
+    font-weight: 80;
+}
+p{
+    text-align: center;
+    color:#5C8374;
+   
+}
+.db{
+    margin: auto;
+    margin-right: 7px;
+    margin-bottom: 10px;
+}
+.icon{
+    color: goldenrod;
+    padding-bottom: 20px;
+}
+.icon:hover{
+    color:gold;
+    
+}
+.sada{
+    font-weight: 600;
+}
+
+
+}
