@@ -171,7 +171,7 @@ html {
     scroll-behavior:smooth;
   }
 
-@media (max-width:1000px){
+@media screen and (max-width:600px){
     #title{
         text-align: left;
         background-image: url('https://wallpapercave.com/wp/wp2110669.jpg');
